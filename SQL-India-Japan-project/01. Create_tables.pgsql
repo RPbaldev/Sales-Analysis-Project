@@ -1,0 +1,20 @@
+CREATE TABLE raw_sales (
+    product_name TEXT,
+    category TEXT,
+    price NUMERIC,
+    quantity INT,
+    total_sales NUMERIC,
+    discount NUMERIC,
+    order_date DATE,
+    customer_rating NUMERIC,
+    payment_method TEXT,
+    supplier_name TEXT,
+    profit NUMERIC,
+    customer_segment TEXT,
+    region TEXT,
+    city TEXT,
+    customer_id TEXT,
+    product_id TEXT,
+    order_id TEXT,
+    supplier_id TEXT
+);
