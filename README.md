@@ -18,10 +18,10 @@ Performed business-focused sales, product, supplier, customer, regional, and pro
 Developed an interactive Power BI dashboard for business performance reporting.
 
 ## Files
-Documentation.pdf — Project documentation
-Dataset_Modified.csv — Prepared dataset
-Database_Creation.sql — PostgreSQL database implementation
-Analysis_Queries.sql — SQL analysis queries
-PowerBI_Dashboard.pdf — Dashboard output
+Sales Analytics Documentation.pdf — Project documentation 
+Dataset_Modified.csv — Prepared dataset 
+Database_Creation.sql — PostgreSQL database implementation 
+Analysis_Queries.sql — SQL analysis queries 
+Executive Dashboard.pdf — Dashboard output 
 
 **Note**: The project is intended as a portfolio demonstration of an end-to-end business analytics workflow.
