@@ -6,11 +6,11 @@ An end-to-end sales analytics project using a modified Kaggle dataset.
 
 **Kaggle Dataset → Data Preparation → PostgreSQL Database → SQL Analysis → Power BI Dashboard**
 
-## Tools
-PostgreSQL
-SQL
-Power BI
-CSV
+### Tools
+* PostgreSQL
+* SQL
+* Power BI
+* Excel
 
 ## Project Highlights
 Structured a flat sales dataset into a relational database.
